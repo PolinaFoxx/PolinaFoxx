@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Polina</h1>
-- 🌱 I’m currently learning **JavaScript, React, and modern frontend development**
+🌱 I’m currently learning **JavaScript, React, and modern frontend development**
 
-- 📫 How to reach me **polkis-6@yandex.ru**
-
-- ⚡ Fun fact **I do boxing. It helps me recharge.**
+⚡ Fun fact **I do boxing. It helps me recharge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  polkis-6@yandex.ru
+  @polinatlt_7
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
